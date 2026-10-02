@@ -1,3 +1,4 @@
+Missing topic abhishek virmalla se clear karo 
 # Terraform Zero to Hero course
 
 ## Day 1: Getting Started with Terraform

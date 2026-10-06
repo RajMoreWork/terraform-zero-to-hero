@@ -1,3 +1,6 @@
+
+**AWS + Terrafrom + linux** = ek sath prepare karo bro kuch alag alag nahi
+
 Missing topic abhishek virmalla se clear karo 
 # Terraform Zero to Hero course
 
